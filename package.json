@@ -1,0 +1,17 @@
+{
+  "name": "忆流Web知识记住辅助软件",
+  "version": "V1.0",
+  "description": "忆流Web知识记住辅助软件-知识点管理系统",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static website built successfully'",
+    "dev": "echo 'Dev mode'"
+  },
+  "keywords": [
+    "learning",
+    "knowledge",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT"
+}
