@@ -66,6 +66,11 @@
 ├── MathJax-3.2.0/      # MathJax数学公式库
 └── README.md           # 项目说明文档
 ```
+## 作者信息
+
+- **作者**：EchoOfCloud
+- **GitHub**：https://github.com/EchoOfCloud
+- **CSDN**：https://blog.csdn.net/qq_37400312
 
 ## 许可证
 
